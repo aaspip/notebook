@@ -1,2 +1,5 @@
 # notebook
-Notebooks for packages held in AASPIP
+
+Tutorial notebooks for AASPIP packages.
+
+pyekfmm: https://github.com/aaspip/pyekfmm
